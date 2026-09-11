@@ -1,0 +1,81 @@
+pays;tache;ordre;libelle
+France;Manager;1;Lancement de journée deux fois par semaine
+France;Manager;2;Transmission toutes les informations du siège
+France;Manager;3;Entretien de pilotage individuel une fois par mois (Suivi statistique globale et individuelle)
+France;Manager;4;Manager Engagé et proactif
+France;Manager;5;Planning à jour sur 3 mois
+France;Manager;6;Ecoute et feedBack toute l'année
+France;Manager;7;Tour des péniches livraison une fois par mois (avec actions nécessaires)
+France;Manager;8;Respect des Offres Commerciales et des stratégies
+France;Manager;9;Suivi des relations externe (CE, Prescripteurs, Commerces voisins...)
+France;Manager;10;Animation du point de ventes avec du fun en magasin
+France;Responsable Atelier;1;Respect des règles du Kaizen de l'atelier
+France;Responsable Atelier;2;80% de commande verres en télédétouré
+France;Responsable Atelier;3;Prévenir les retards du jour avant 12h00 MAX
+France;Responsable Atelier;4;Terminer les montages avant 15h max pour être disponible en vente
+France;Responsable Atelier;5;Entretien des machines une fois par mois (meule, Tess...)
+France;Responsable Atelier;6;Former l'équipe à l'utilisation des outils de prises de mesures
+France;Responsable Atelier;7;Former l'équipe à utiliser le lecteur Tess
+France;Responsable Atelier;8;Former un bînome en montage en cas d'absence
+France;Responsable Atelier;9;100% des péniches contrôlées et nettoyées avant livraison
+France;Responsable Atelier;10;Former l'équipe et contrôle des recommandes par EDI (obligatoirement)
+France;Responsable Audiologie;1;Lancement de journée 2 fois par mois
+France;Responsable Audiologie;2;Garant du KAIZEN Audio (coin audio, cabine : achalandés, prix à jour, propreté...)
+France;Responsable Audiologie;3;100% de l'équipe formée aux offres, accessoires, produits d'entretien, réparations basiques et tests audio
+France;Responsable Audiologie;4;Formation d'un Tech Audio pour doubler l'activité, prendre le relai en cas d'absence/congés : Obj => 6j/7
+France;Responsable Audiologie;5;Taux de Test Audio du magasin ≥ 30%
+France;Responsable Audiologie;6;Responsable Audio engagé (formations aux nouveautées, mise en place immédiate, présent en surface de vente)
+France;Responsable Audiologie;7;Respecter les grilles et préconisations
+France;Responsable Audiologie;8;Rappeler tous les mois le listing client Cosium
+France;Responsable Audiologie;9;Sortir, analyser et rappeler les devis non concrétisés tous les mois
+France;Responsable Audiologie;10;Gestion du stock (respect stock/ventes, vendre l'existant, dates de péremption)
+France;Responsable Contactologie;1;Lancement de journée 2 fois par mois
+France;Responsable Contactologie;2;News Contacto débriefée dès sa diffusions
+France;Responsable Contactologie;3;100% de l'équipe utilise MyContact mais aussi les autres offres commerciales
+France;Responsable Contactologie;4;Checking ventes pour montée en gamme et ventes complémentaires
+France;Responsable Contactologie;5;Relance des clients pour renouvellement
+France;Responsable Contactologie;6;100% de l'équipe connait les lentilles ainsi que les produits d'entretien
+France;Responsable Contactologie;7;Kaizen à jour ( salle contacto, arrière caisse...)
+France;Responsable Contactologie;8;Minimum 2 RDV adaptations par semaine
+France;Responsable Contactologie;9;Pas de produits/lentilles perimés
+France;Responsable Contactologie;10;Evolution positive du CA par rapport à l'année précédente
+France;Responsable Montures / SAV;1;Taux de MDC+ intemporelles du magasin ≥ 66%
+France;Responsable Montures / SAV;2;Plan Merchandising respecté (kaizen meubles et vitrine, propreté, attractivité facing)
+France;Responsable Montures / SAV;3;Gestion du stock en -1
+France;Responsable Montures / SAV;4;Les montures se trouvent sous la bonne marque,signalétique,PLV et pas de trous ni doublons (ou remontée faite)
+France;Responsable Montures / SAV;5;Lancement de journée 2 fois par mois
+France;Responsable Montures / SAV;6;Faire des inventaires partiels
+France;Responsable Montures / SAV;7;Équipe formée ( nouveautés, argumentaires, ADN et storytelling, simulations ventes...)
+France;Responsable Montures / SAV;8;Taux de Lukkas ≥ 20%
+France;Responsable Montures / SAV;9;Gestion du SAV journalier (pièces commandées, retro, relances, suivi client, respect du delai...)
+France;Responsable Montures / SAV;10;Responsable Monture ENGAGÉ ( réunion annuelle, passage itinérant, formateur, prise d'initiative...)
+France;Responsable Optométrie;1;S'assurer que les RDV N+1 et Call center soient appelés (entre le mail et le SMS)
+France;Responsable Optométrie;2;Temps moyen pour un controle de la vue ≤ 15 minutes (pour tous)
+France;Responsable Optométrie;3;Proposer des examens de vue à 100% des clients SAV, ajustage et des accompagnants
+France;Responsable Optométrie;4;Définir un rendez vous N+1 systématique (former l'équipe au discours)
+France;Responsable Optométrie;5;Former l'équipe aux examens de vue
+France;Responsable Optométrie;6;Optimiser le planning OPTO du magasin toute l'année
+France;Responsable Optométrie;7;Etre le référent pour les examens de vue quand cas complexe
+France;Responsable Optométrie;8;S'assurer que l'EDV est bien valorisé de 10€ pour les 100% santé
+France;Responsable Optométrie;9;Kaizen salle optométrie à jour
+France;Responsable Optométrie;10;S'assurer que Lyleoo soit utilisé par 100% des collaborateurs
+France;Responsable Tiers Payant / FSE;1;Veiller à ce que tous les dossiers soient complets. Tous les documents nécessaires soient bien signés et scannés
+France;Responsable Tiers Payant / FSE;2;Mise en place et suivi de l'organisation des dossiers TP (dans le respect du Kaizen)
+France;Responsable Tiers Payant / FSE;3;Former son équipe sur les spécificités de chaque réseau (Optique et Audio)
+France;Responsable Tiers Payant / FSE;4;Remonter les erreurs de préconisation de Roki au responsable verres du magasin
+France;Responsable Tiers Payant / FSE;5;S'assurer que les dossiers soient facturés au bon moment
+France;Responsable Tiers Payant / FSE;6;Télétransmettre les FSE tous les soirs
+France;Responsable Tiers Payant / FSE;7;Relancer les restes dûs client une fois par mois
+France;Responsable Tiers Payant / FSE;8;Responsable Tier Payant engagé (reunion TP , relation avec son référent...)
+France;Responsable Tiers Payant / FSE;9;Traiter et répondre au tableau des anomalies dans le respect des délais
+France;Responsable Tiers Payant / FSE;10;Remonter à son manager les problèmes récurrents dans l'équipe (suivi d'action et formation)
+France;Responsable Verres;1;Lancement de journée deux fois par mois dont news verres débriefée
+France;Responsable Verres;2;Taux de transition ≥ 20%
+France;Responsable Verres;3;% recommande verres < 3%
+France;Responsable Verres;4;Analyse et Controle des statistique verres
+France;Responsable Verres;5;Controle des Ventes Verres : Respect des préconisations Roki
+France;Responsable Verres;6;5 montages Atelier controlés chaque mois
+France;Responsable Verres;7;Equipe formée ( nouveaux verres, argumentaire, Prise de mesures tablettes ....)
+France;Responsable Verres;8;Responsable Verre Engagé ( reunion annuel , passage itinerant ...)
+France;Responsable Verres;9;Retours Verres faits
+France;Responsable Verres;10;Remonter au pôle produit les erreurs dans Roki
